@@ -1,3 +1,4 @@
 python-telegram-bot==13.7
 Pillow==8.4.0
 moviepy==1.0.3
+urllib3
