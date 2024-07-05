@@ -6,7 +6,7 @@ from PIL import Image  # For image processing
 from moviepy.editor import VideoFileClip  # For video processing (if needed)
 
 # Replace with your actual bot token
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+BOT_TOKEN = "7453356420:AAFkPLyQkFVcbL7OkxQls4rqRhLlI9rxn40"
 
 # Function to handle the /start command
 def start(update: Update, context) -> None:
